@@ -18,3 +18,11 @@
 #content {
     font-size: 40px;
 }
+
+hr {
+	width: 43%;
+	height: 2px;
+	background-color: #111;
+	border: none;
+	/* border-radius: 5px; */
+}
