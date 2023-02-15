@@ -22,6 +22,12 @@ console.log(answer);
 
 let myArray3 = ["Vaibhav", "Omen", "Reyna", "Viper", "Fade", "Phoenix", "Breach", "Jett", "Sage"]
 let agents = myArray3.filter((agent) => {
-    return agent.length >= 4 && agent.length <= 6;
+    return agent.length >= 5 && agent.length <= 6;
 });
 console.log(agents);
+
+
+arr = ["Omen", "Reyna", "Raze", "Fade", "Killjoy", "Reyna"];
+
+const valoAgents = arr.filter((agent, i) => arr.indexOf(agent) === i);
+console.log(valoAgents);
