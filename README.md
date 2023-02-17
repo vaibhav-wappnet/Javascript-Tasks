@@ -8,6 +8,8 @@ There are different files for the different methods and iterators
 
 ## Run Code
 
+o
+
 To run the javaScript file in the terminal use `node` command before the file path followed by the file name with `.js` extension.
 
 eg.
