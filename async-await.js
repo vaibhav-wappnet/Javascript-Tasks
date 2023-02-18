@@ -14,18 +14,6 @@ console.log("getting results");
 myFunc();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // let url = `https://jsonplaceholder.typicode.com/posts/1`;
 
 // let fetchData = async (req, res) => {
